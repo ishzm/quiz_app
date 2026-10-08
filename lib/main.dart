@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
+import 'quiz.dart'
 
 void main() {
-  runApp(MaterialApp(home: Scaffold(
-    body: Container(
+  runApp(MaterialApp(
+    home: Scaffold(
+     body: Container(
       decoration: BoxDecoration(
         gradient: LinearGradient(
           colors: [
@@ -11,7 +13,7 @@ void main() {
         ],
         ),
       ),
-      child: StartScreen(),
+      child: Quiz(),
     ),
   ),
   ),
