@@ -1,65 +1,64 @@
 import 'package:quiz_app/models/quiz_question.dart';
 
 const questions = [
-  QuizQuestion('How did Ed lose his arm?', [
-    'Putting his brother\'s soul in a suit of armor',
-    'In a duel',
-    'In a kitchen accident',
-    'He has not lost his arm',
+  QuizQuestion('What does BMW stand for?', [
+    'Bayerische Motoren Werke',
+    'British Motor Works',
+    'Berlin Motor Works',
+    'Bavarian Machine World',
   ]),
-  QuizQuestion('How many episodes of One Piece are there?', [
-    '1195',
-    '1234',
-    '2323',
-    '0',
+  QuizQuestion('Which company manufactures the Mustang?', [
+    'Ford',
+    'Chevrolet',
+    'Dodge',
+    'Toyota',
   ]),
-  QuizQuestion('Which village is Naruto Uzumaki from?', [
-    'The Hidden Leaf Village',
-    'The Hidden Sand Village',
-    'The Hidden Mist Village',
-    'The Hidden Cloud Village',
+  QuizQuestion('What does ABS stand for in cars?', [
+    'Anti-lock Braking System',
+    'Automatic Brake Sensor',
+    'Advanced Battery System',
+    'Active Boost System',
   ]),
-  QuizQuestion('In Death Note, which Shinigami drops the notebook into the human world?', [
-    'Ryuk',
-    'Rem',
-    'Sidoh',
-    'Gelus',
+  QuizQuestion('Which car brand produces the Supra?', [
+    'Toyota',
+    'Honda',
+    'Nissan',
+    'Mazda',
   ]),
-  QuizQuestion('In Attack on Titan, which military branch goes outside the walls?', [
-    'The Survey Corps',
-    'The Garrison',
-    'The Military Police',
-    'The Training Corps',
+  QuizQuestion('What does RPM stand for?', [
+    'Revolutions Per Minute',
+    'Rotations Per Mile',
+    'Road Performance Mode',
+    'Rapid Power Management',
   ]),
-
-QuizQuestion('What race is Goku in Dragon Ball Z?', [
-    'Saiyan',
-    'Namekian',
-    'Human',
-    'Android',
+  QuizQuestion('Which car manufacturer produces the GT-R?', [
+    'Nissan',
+    'Toyota',
+    'Subaru',
+    'Mitsubishi',
   ]),
-  QuizQuestion('What Quirk does All Might pass on to Deku?', [
-    'One For All',
-    'All For One',
-    'Half-Cold Half-Hot',
-    'Explosion',
+  QuizQuestion('What is the main purpose of a turbocharger?', [
+    'Increase engine power',
+    'Improve braking',
+    'Reduce tire wear',
+    'Increase fuel tank size',
   ]),
-  QuizQuestion('Why does Tanjiro become a Demon Slayer?', [
-    'To turn his sister Nezuko back into a human',
-    'To become the strongest swordsman',
-    'To avenge his master',
-    'To find his missing father',
+  QuizQuestion('Which car brand produces the Model 3?', [
+    'Tesla',
+    'Lucid',
+    'Rivian',
+    'Polestar',
   ]),
-  QuizQuestion('What is Ash Ketchum\'s first Pokémon?', [
-    'Pikachu',
-    'Charmander',
-    'Bulbasaur',
-    'Squirtle',
+  QuizQuestion('What does AWD stand for?', [
+    'All-Wheel Drive',
+    'Automatic Wheel Drive',
+    'Advanced Wheel Design',
+    'Active Wheel Differential',
   ]),
-  QuizQuestion('Who directed Spirited Away?', [
-    'Hayao Miyazaki',
-    'Isao Takahata',
-    'Makoto Shinkai',
-    'Mamoru Hosoda',
+  QuizQuestion('What does a catalytic converter primarily do?', [
+    'Reduce harmful exhaust emissions',
+    'Increase engine horsepower',
+    'Cool the engine',
+    'Improve tire traction',
   ]),
 ];
